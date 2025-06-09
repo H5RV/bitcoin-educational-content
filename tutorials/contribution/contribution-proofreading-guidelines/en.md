@@ -5,11 +5,11 @@ description: What are the important factors to keep in mind while proofreading o
 
 ![github](assets/cover.webp)
 
-Welcome to this tutorial about the guidelines to follow when proofreading content on Plan ₿ Network. We are glad you share our mission to translate Bitcoin materials in as many languages as possible, in order to help people gain awareness about how it works and how it can be used in their daily lives.
+Welcome to this tutorial about the **guidelines to follow when proofreading content on Plan ₿ Network**. We are glad you share our mission to translate Bitcoin materials in as many languages as possible, in order to help people gain awareness about how it works and how it can be used in their daily lives.
 
 First of all, contributing to Plan ₿ Network [public repository](https://github.com/PlanB-Network/bitcoin-educational-content) gives you the chance to write tutorials, proofread the existing content, or even propose the addition of a new language to the platform. To know more, join our [Telegram Group](https://t.me/PlanBNetwork_ContentBuilder) first, and write a brief presentation about you and the languages you can speak. 
 
-The present tutorial is dedicated to contributors who want to proofread content. Most of them don't know much about [Github](https://planb.network/en/tutorials/contribution/others/create-github-account-a75fc39d-f0d0-44dc-9cd5-cd94aee0c07c) or the [Markdown language](https://www.markdownguide.org/basic-syntax/) we use inside the repository, so it's important to share some insights on the things they need to pay attention to, when executing this task.
+The present tutorial is dedicated to contributors who want to proofread content. Most of them don't know much about [Github](https://planb.network/en/tutorials/contribution/others/create-github-account-a75fc39d-f0d0-44dc-9cd5-cd94aee0c07c) or the [Markdown language](https://www.markdownguide.org/basic-syntax/) we use inside the repository, so it's important to share some insights on the key factors involved in this task.
 
 Here below, I gathered the most common issues that proofreaders encounter. Feel free to suggest more, as it can help others improve.
 
@@ -29,10 +29,10 @@ When you undergo this type of task, it's important to follow the meaning of the 
 
 Before starting a new proofreading task, announce it in the [Telegram group](https://t.me/PlanBNetwork_ContentBuilder) or inform your Plan ₿ Network coordinator, who will open a dedicated [issue](https://github.com/orgs/PlanB-Network/projects/3). When you receive the issue link, simply **comment that you are starting** with the proofreading task of that content.
 
-This system allows the coordinator to keep track of the progress inside the repo, and it allows the content to be "claimed" by the proofreader, preventing duplicate efforts by someone else. 
+This system helps the coordinator keep track of the progress inside the repo, and it allows the content to be "claimed" by the proofreader, preventing duplicate efforts by someone else. 
 On the issue itself, you will find the links that take you directly to the content to check. You can directly click on them, or even better, you can go back to your own forked repo and work directly from there.
 
-First of all, **ALWAYS remember to SYNC you repo, on the "dev" branch**. This way, the content will always be updated before you start any type of task, and you will not create any conflicts between old and new material. Make sure to click on "Sync fork" and "Update branch".
+First of all, **ALWAYS remember to SYNC your repo, on the "dev" branch**. This way, the content will always be updated before you start any type of task, and you will not create any conflicts between old and new material. Make sure to click on "Sync fork" and "Update branch".
 
 
 ![REVIEW](assets/en/1.webp)
@@ -63,7 +63,7 @@ After creating this new branch, make sure to click on it from "Your Branches" in
 
 ## Original language or translation?
 
-When doing some proofreading of content, it's important to always check the original English (or French) version of it. Be aware that we translate using AI language tools, so the rendering in the target language might not be fluid or well understandable for the final reader. 
+When doing some proofreading of content, it's important to **always check the original English (or French)** version of it. Be aware that we translate using AI language tools, so the rendering in the target language might not be fluid or well understandable for the final reader. 
 
 Thus, feel free to make adjustments to the text and modify sentences, if needed. Our objective is to enhance fluidity, but always following the original meaning. In case of doubts about how to treat a specific word, make sure to ask the translation coordinator.
 
@@ -73,7 +73,7 @@ In this second case, **always do some research to see if someone else in your Bi
 
 - One solution could be to **check on [BitcoinWiki](https://en.bitcoin.it/wiki/Main_Page)** in your target language to see if the word was translated or not. If it's not, you keep the word in English.
 
-- In any case, my advice would be to **insert the EN word nonetheless**, and then the corresponding meaning in the target language inside round parenthesis, following the scheme EN (LANG), or vice-versa. Ex. Address (indirizzo) or indirizzo (address).
+- In any case, my advice would be to **insert the EN word nonetheless**, and then the corresponding meaning in the target language inside round parenthesis, following the scheme EN (LANG), or vice-versa. Ex. Address (indirizzo), or indirizzo (address).
 
 - Another good solution is to keep the EN original word/phrase, then **create a hyperlink** that redirects to the [glossary](https://planb.network/en/resources/glossary) on planb.network. To do this, you need to insert the word/phrase inside square brackets, and the link inside round parenthesis, like you can see in the example below: 
 
@@ -143,13 +143,13 @@ Here below you can find a few examples of format issues to pay attention to, whe
 ![REVIEW](assets/en/9.webp)
 
 
-Thus, always check the original English text to see if a bold text is supposed to be there. In this case, it's enough to just add two asterisks at the start of the word, to make it show correctly on the website. In fact in the markdown language, **to render the bold you have to insert two asterisks ``**`` both before and after the word/sentence** (see example below).
+Thus, always check the original English text to see if a bold text is supposed to be there. In this case, just add two asterisks at the start of the word, to make it show correctly on the website. In fact, in the markdown language, **to render the bold, you have to insert two asterisks ``**`` both before and after the word/sentence** (see example below).
 
 
 ![REVIEW](assets/en/10.webp)
 
 
-- The same issues may happen with symbols like $ and `` ` `.
+- The same issues may happen with symbols like $ and `` ` ``.
 	Make sure to check the original language file (often EN or FR) to see where these symbols are supposed to be. You can always ask the coordinator for assistance on this matter.
 
 - If you find quotes, make sure to do some research online to find the right translation in your language. Quotes are usually inserted after the symbol ``>``.
@@ -186,14 +186,14 @@ In the example below, the proofreader used the above function to replace "satosh
 ![REVIEW](assets/en/14.webp)
 
 
-Following on the topic of links, if the author inserts a link referring to a Plan ₿ Network course of tutorial, the website will automatically create a "card" showing the related thumbnail. As a consequence, always make sure that you have a space between the text and the link itself, otherwise you might see the following error on the website.
+Following on the topic, if the author inserts a link referring to a Plan ₿ Network course or tutorial (**not** inside parenthesis), the website will automatically create a "card" showing the related thumbnail. As a consequence, always make sure that you **have a space between the text and the link itself**, otherwise you might see the following error on the website.
 
 
 ![REVIEW](assets/en/15.webp)
 
 
 
-Finally, another best practice to apply when you finish your proofreading task and send the PR is go back to the original issue opened by the coordinator, and comment with "Proofreading done". Make sure to also insert your PR link there as well.
+Finally, another best practice to apply when you finish your proofreading task and send the PR is go back to the original issue opened by the coordinator, and comment with "Proofreading done". **Make sure to also insert your PR link there as well**.
 
 
 ## Conclusion
