@@ -1,5 +1,5 @@
 ---
-name: Çevrimiçi Güvenliğinizi Güncelleyin
+name: Çevrimiçi Güvenliğinizi Güncelleyin 
 goal: Şifre ve kişisel veri yönetimini güncelleyin. Bir yedekleme oluşturun, bilgisayar korsanlarına karşı korunun ve kitlesel gözetim konusunda farkındalık yaratın.
 objectives: 
 
