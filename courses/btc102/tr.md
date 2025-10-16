@@ -511,19 +511,19 @@ Bitcoin herkese açıktır, ancak bu hazırlıksız dalmanız gerektiği anlamı
 
 
 
-- Kaybetmeyi göze alabileceğinizden daha fazla yatırım yapın**: Asla borca girmeyin veya kira paranızı Bitcoin'e yatırmayın. Temel finansal istikrarınız her zaman önce gelmelidir.
+- Kaybetmeyi göze alabileceğinizden daha fazla yatırım yapmanız**: Asla borçlanarak ya da temel harcamalarınıza ayrılmış parayla yatırım yapmayın.
 
 
 
-- Ticaret ve yatırım arasındaki farkı bilmemek**: Alım satım yapmak zaman, beceri ve ciddi bir duygusal disiplin gerektirir. Uzun vadeli yatırım çok daha acemi dostudur.
+- Trading (al-sat) ile uzun vadeli yatırım arasındaki farkı görmezden gelmek**: Trading, ileri düzey teknik bilgi ve zaman gerektiren riskli bir faaliyettir. Uzun vadeli yatırım çok daha acemi dostudur.
 
 
 
-- Vergileri unutmak**: Her ülkenin kripto için kendi vergi kuralları vardır. Bunları göz ardı etmek, ileride acı verici sürprizlere yol açabilir.
+- Vergileri unutmak**: Her ülkenin kripto için kendi vergi kuralları vardır. Bunları göz ardı etmek, ileride önemli mali kayıplara yol açabilir.
 
 
 
-- FOMO'ya** kapılmak: Kaybetme korkusuyla düşünmeden satın almak genellikle kötü zamanlamaya ve kötü kararlara yol açar. Sabır en iyi müttefikinizdir.
+- FOMO'ya (Fırsatı Kaçırma Korkusu) kapılmak**: Sırf bir fırsatı kaçırma korkusuyla ani alımlar yapmak, genellikle en kötü zamanda satın almaya neden olur. 
 
 
 ![BTC102-Bitcoin](assets/tr/019.webp)
@@ -532,10 +532,10 @@ Bitcoin herkese açıktır, ancak bu hazırlıksız dalmanız gerektiği anlamı
 ### Bir yatırım stratejisinin tanımlanması
 
 
-İlk Satoshi'inizi satın almadan önce, Bitcoin'e neden ve nasıl yatırım yaptığınızı anlamanız çok önemlidir. Bu, kişisel durumunuza ve uzun vadeli hedeflerinize göre uyarlanmış net bir finansal plana sahip olmak anlamına gelir.
+İlk Satoshi'lerinizi satın almadan önce, Bitcoin'e neden ve nasıl yatırım yaptığınızı anlamanız çok önemlidir. Bu, kişisel durumunuza ve uzun vadeli hedeflerinize göre uyarlanmış net bir finansal plana sahip olmak anlamına gelir.
 
 
-İşe **bütçenizi** hassas bir şekilde tanımlayarak başlayın. Sadece rastgele bir sayı seçmeyin. Aylık gelirinizi hesaplamak için zaman ayırın, sabit giderlerinizi (kira, krediler, vergiler, kamu hizmetleri gibi) ve günlük yaşam maliyetlerinizi (gıda, ulaşım, eğlence vb.) çıkarın. Geriye kalan miktar sizin tasarruf marjınızdır ve sadece bu kısımdan yatırım yapmayı düşünmelisiniz.
+İşe, **bütçenizi** hassas bir şekilde tanımlayarak başlayın. Sadece rastgele bir sayı seçmeyin. Aylık gelirinizi hesaplamak için zaman ayırın, sabit giderlerinizi (kira, krediler, vergiler, kamu hizmetleri gibi) ve günlük yaşam maliyetlerinizi (gıda, ulaşım, eğlence vb.) çıkarın. Geriye kalan miktar sizin tasarruf marjınızdır ve sadece bu kısımdan yatırım yapmayı düşünmelisiniz.
 
 Bu şekilde yaklaşmak, özellikle bir piyasa gerilemesi durumunda finansal refahınızı riske atmamanızı sağlar. Düşünceli bir strateji, uzun vadeli dayanıklılığın temelidir.
 
@@ -548,7 +548,7 @@ Bütçenizi belirledikten sonra nasıl yatırım yapmak istediğinizi düşünü
 
 O zaman kendinize sorun: Benim zaman ufkum nedir?
 
-Piyasaya hızlı bir şekilde girip çıkmak mı istiyorsunuz (alım satım)? Yoksa Bitcoin'yi birkaç yıl boyunca elde tutma (hodler) gibi uzun vadeli bir zihniyete mi daha yakınsınız? Eğer bir hodler iseniz, muhtemelen günlük fiyat dalgalanmalarıyla daha az ilgileniyor ve daha çok uzun vadeli güvenliğe ve kendi kendinizi korumaya odaklanıyorsunuzdur. Alım satım yapıyorsanız, kısa vadeli piyasa gürültüsüne, daha yüksek riske ve genellikle hızlı karar vermenin getirdiği strese daha fazla maruz kalacaksınız. Herkese uyan tek bir cevap yoktur, ancak kendi yaklaşımınızı bilmek kararlarınızı yönlendirmenize yardımcı olacaktır.
+Piyasaya hızlı bir şekilde girip çıkmak mı istiyorsunuz (al-sat)? Yoksa Bitcoin'i birkaç yıl boyunca elde tutma (hodler) gibi uzun vadeli bir zihniyete mi daha yakınsınız? Eğer bir hodler'iseniz, muhtemelen günlük fiyat dalgalanmalarıyla daha az ilgileniyor ve daha çok uzun vadeli güvenliğe ve kendi kendinizi korumaya odaklanıyorsunuzdur. Alım satım yapıyorsanız, kısa vadeli piyasa gürültüsüne, daha yüksek riske ve genellikle hızlı karar vermenin getirdiği strese daha fazla maruz kalacaksınız. Herkese uyan tek bir cevap yoktur, ancak kendi yaklaşımınızı bilmek kararlarınızı yönlendirmenize yardımcı olacaktır.
 
 
 En önemlisi, yatırım kararlarınızı duygulara veya korkuya dayalı olarak vermeyin. Önceden bir strateji belirleyin, bunu yazın ve buna bağlı kalın.
@@ -574,10 +574,10 @@ Bu nedenle yatırım yapmadan önce Bitcoin'in oynaklığını **anlamak ve kabu
 Hepsinden önemlisi, asla kaybetmeyi göze alabileceğinizden daha fazla yatırım yapmayın. Bitcoin satın almak için borç para almaktan kaçının (özellikle de hala temelleri öğreniyorsanız). Sağlam bir temel, pervasız bahislerle değil ölçülü adımlarla başlar.
 
 
-### Bitcoin'ünüzü yönetme ve güvenliğini sağlama Wallet
+### Bitcoin portföyünüzü yönetme ve güvenliğini sağlama 
 
 
-Bitcoin'in en güçlü (ve genellikle hafife alınan) özelliklerinden biri **kendi kendine saklama** özelliğidir. Kendi kendine barındırılan bir Wallet ile, fonlarınızdan yalnızca siz sorumlusunuz. Bu cüzdanlar tipik olarak BTC'nize tam erişim sağlayan 12 veya 24 kelimeden oluşan bir dizi **kurtarma cümlesi** (seed cümlesi olarak da bilinir) ile oluşturulur. Bu cümleyi kaybederseniz (veya başka birinin eline geçerse) bitcoinleriniz sonsuza kadar gider. **Müşteri desteği yok. Sıfırlama düğmesi yok.**
+Bitcoin'in en benzersiz yönlerinden biri **kendi kendine saklama** (self-custody) kavramıdır. Kendi dijital cüzdanınız'a (Wallet) sahip olabilir ve ondan tamamen siz sorumlu olabilirsiniz. Bu cüzdan genellikle 12 veya 24 kelimelik bir anımsatıcı ifadeyle (mnemonic phrase) oluşturulur ve bu ifade, BTC'lerinize tam erişimi sağlar. Ancak bu anımsatıcı ifadeyi kaybederseniz (veya kötü niyetli kişilerin eline geçerse, bitcoinleriniz geri alınamaz hale gelir. 
 
 
 ![BTC102-Bitcoin](assets/tr/023.webp)
@@ -585,113 +585,83 @@ Bitcoin'in en güçlü (ve genellikle hafife alınan) özelliklerinden biri **ke
 
 Bu yüzden Bitcoin'de altın kural şudur:
 
-"***Not your keys, not your coins***". Özel anahtarlarınızı kişisel olarak kontrol etmiyorsanız, Bitcoin'unuza gerçekten sahip değilsiniz demektir. Borsalar kullanışlı olsa da (özellikle başlangıç aşamasında) anahtarlarınızı sizin için tutarlar. Bu da platformun saldırıya uğraması, hesabınızın dondurulması ya da iflas etmesi durumunda fonlarınızın risk altında olduğu anlamına gelir.
+"***(Anahtarlar senin değilse, coin'ler de senin değildir (Not your keys, not your coins)***". Özel anahtarlarınızı kişisel olarak kontrol etmiyorsanız, Bitcoin'unuza gerçekten sahip değilsiniz demektir. Borsalar kullanışlı olsa da (özellikle başlangıç aşamasında) anahtarlarınızı sizin için tutarlar. Bu da platformun saldırıya uğraması, hesabınızın dondurulması ya da iflas etmesi durumunda fonlarınızın risk altında olduğu anlamına gelir.
 
 
 ![BTC102-Bitcoin](assets/tr/024.webp)
 
 
-Bu riskten kaçınmak için, kurtarma ifadesine yalnızca sizin erişebileceğiniz **kendi Wallet**'ınızı kurmanız şiddetle tavsiye edilir. Bu ifade her zaman elle yazılmalı ve **çevrimdışı** olarak güvenli bir yerde saklanmalıdır. Hatta bazı kullanıcılar daha fazla güvenlik için ayrı coğrafi konumlarda saklanan **çoklu yedekler** tutarlar.
+Bu senaryoyu önlemek için, yalnızca sizin sahip olduğunuz anımsatıcı ifadeyi (mnemonic phrase) içeren kendi cüzdanınızı oluşturmanız şiddetle tavsiye edilir. Bu kelimeler elle, fiziksel bir ortamda yazılmalı ve güvenli korunaklı bir yerde saklanmalıdır. Bazı kişiler, kelimeleri coğrafi olarak farklı iki yerde saklayarak çift yedekleme yöntemi tercih eder. Her ne olursa olsun, anımsatıcı ifadeyi internet bağlantılı bir cihazda veya bulut hizmetinde asla depolamamanız gerekir; çünkü basit bir siber saldırı ya da veri sızıntısı felaketle sonuçlanabilir.
 
 
-**Kurtarma ifadenizi asla internete bağlı bir cihazda veya bulutta saklamayın**.
-
-**Tek bir bilgisayar korsanlığı veya veri ihlali geri dönüşü olmayan kayıplara yol açabilir.**
-
-
-Ownership'inizin Bitcoin'sini almaya hazırsanız ve kurtarma ifadenizin güvenliğini sağlamaya yönelik en iyi uygulamaları daha derinlemesine incelemek istiyorsanız, bu makaleye göz atmanızı şiddetle tavsiye ederim:
+Anımsatıcı ifadenizin güvenliğini sağlama konusunda bilginizi derinleştirmek istiyorsanız, bu makaleyi incelemenizi tavsiye ederim. Karşılaşabileceğiniz riskleri ve bunlardan kaçınmak için benimsenmesi gereken en iyi uygulamaları ayrıntılı şekilde açıklıyor:
 
 
 https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
 
-### Gizlilik ve sağduyu
+### Gizlilik ve Mahremiyet
 
 
-Günümüzün dijital dünyasında **sağduyu genellikle göz ardı edilir**; ancak özellikle Bitcoin söz konusu olduğunda güvende kalmanın çok önemli bir parçasıdır. Sahip olduklarınız hakkında ne kadar açık konuşursanız, dolandırıcıların, siber suçluların ve hatta gasp veya şantaj gibi daha geleneksel tehditlerin hedefi olma olasılığınız o kadar artar.
-
-Dünya genelinde büyük miktarlarda BTC'ye sahip olduğu bilinen kişilerin kaçırıldığı ya da saldırıya uğradığı çok sayıda vaka yaşanmıştır.
+Dijital dünyada mahremiyetin önemi çoğu zaman yeterince takdir edilmez. Ancak Bitcoin varlıklarınızı ne kadar çok kamuya açık şekilde paylaşırsanız, dolandırıcılar, siber suçlular ya da bazı durumlarda daha sıradan tehditler (zorla para alma, şantaj vb.) için o kadar büyük bir hedef haline gelirsiniz. Sosyal medyada ya da tanıdıklarla yapılan sohbetlerde büyük miktarda BTC’ye sahip olduğunuzu açıkça dile getirmenin hiçbir faydası yoktur. Ne yazık ki, farklı ülkelerde Bitcoin sahiplerinin kaçırıldığı çok sayıda vaka yaşanmıştır.
 
 
-**Bitcoin Stash**'iniz hakkında övünmekten kaçının; ister sosyal medyada ister sıradan sohbetlerde olsun. Hassas finansal bilgileri ifşa etmenin hiçbir avantajı yoktur ve riskler gerçektir.
+Ayrıca çevrim içi faaliyetlerinizi birbirinden ayırmak oldukça önemlidir. Örneğin, günlük işleriniz için kullandığınız e-posta adresini Bitcoin ile ilgili hesaplarınızda kullandığınız e-posta adresinden farklı tutabilirsiniz. Kimlik avı girişimlerine, şüpheli bağlantılara ve resmi platformları taklit eden sitelere karşı dikkatli olun. Kısacası, mahremiyet ve dikkat çoğu zaman sizi sorunlardan koruyacaktır.
 
-
-Çevrimiçi faaliyetlerinizi **bölümlere ayırmak** da akıllıca olacaktır. Örneğin:
-
-
-- Address ile ilgili her şey için kişisel veya iş hesaplarınızdan ayrı bir Bitcoin e-postası kullanın.
-- Kimlik avı girişimlerine, şüpheli bağlantılara ve güvenilir platformları taklit eden sahte web sitelerine karşı dikkatli olun.
-- Tetikte olun! İhtiyat ve dikkat çoğu zaman en iyi savunmanızdır.
-
-
-Bitcoin gizlilik konusunu daha derinlemesine incelemeye hazırsanız, kimliğinizi ve faaliyetlerinizi güvende tutmak için daha gelişmiş teknikler öğreneceğiniz 2. Yıl Gizlilik Kursumuza devam etmenizi öneririz:
-
+Bitcoin üzerindeki gizlilik konusuyla ilgileniyorsanız, ikinci yıl seviyesindeki şu eğitimi takip etmenizi tavsiye ederim:
 
 https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### Vergi etkileri
 
 
-Merkezi olmayan bir para birimi olmasına rağmen, **Bitcoin ülkenizin vergi yasalarından ve düzenlemelerinden** muaf değildir. Her yargı yetkisinin, kripto para birimlerinden elde edilen kazançların nasıl vergilendirileceğine ilişkin kendi yaklaşımı vardır.
-
-Bazı yerlerde, kârlar satıldığında sermaye kazancı olarak vergilendirilir. Diğerleri her ticareti beyan etmenizi gerektirebilir ve bazıları servet vergileri veya sosyal katkılar gibi daha az yaygın kurallar uygular.
+Bitcoin’in merkeziyetsiz bir para birimi olmasına rağmen, yaşadığınız ülkenin düzenlemelerinden ve vergi yasalarından muaf değildir. Her hukuk sistemi, kripto para kazançlarının vergilendirilmesine ilişkin kendi kurallarına sahiptir. Bazı ülkeler satış sırasında elde edilen kazanç üzerinden sermaye kazancı vergisi uygular, bazıları her türlü kripto para işlemi için özel beyanlar talep eder, bazıları ise daha az yaygın yaklaşımlar benimseyebilir (servet vergisi, sosyal katkı payları vb.).
 
 
 ![BTC102-Bitcoin](assets/tr/018.webp)
 
 
-Herhangi bir önemli işlem yapmadan önce, bir vergi uzmanına danışmanız veya hükümetinizin resmi kılavuzunu gözden geçirmeniz şiddetle tavsiye edilir. Vergi yükümlülüklerinizi önceden anlamak için zaman ayırmak, özellikle büyük satışlar veya portföy yeniden tahsisleri planlıyorsanız, sizi daha sonra beklenmedik sorunlardan (para cezaları, denetimler veya cezalar gibi) kurtarabilir.
+Önemli işlemler gerçekleştirmeden önce bir uzmana danışmanız veya resmi devlet sitelerini incelemeniz şiddetle tavsiye edilir. Önceden yapılacak bir vergi planlaması, özellikle büyük çaplı satışlar yapmayı düşünüyorsanız, sizi olası sıkıntılardan (cezalar, düzeltmeler, yaptırımlar vb.) koruyacaktır.
 
 
 ![BTC102-Bitcoin](assets/tr/022.webp)
 
 
-### Alım Satım, Yatırım ve Holding Arasındaki Fark
+### Al-Sat, Yatırım ve Holding (hodl) Arasındaki Fark
 
 
-Bitcoin genellikle popüler yanlış anlamalarla çevrilidir; en yaygın olanlarından biri, ticaret yoluyla zengin olmaya giden hızlı bir yol olduğu fikridir. Ancak alım satım, yatırım ve elde tutma arasındaki net ayrımı anlamak önemlidir, çünkü her yaklaşım kendi zihniyetini, beceri setini ve risk düzeyini beraberinde getirir.
+Bitcoin dünyası, kamuoyunda genellikle klişelerle ilişkilendirilir; özellikle de al-sat yoluyla hızlı zengin olma fikriyle. Ancak, her biri kendine özgü gerekliliklere ve risklere sahip üç farklı yaklaşımı net bir şekilde ayırt etmek gerekir.
 
 
 
-- Ticaret:**
+- Al-Sat:**
 
 
-Dürüst olalım: **muhtemelen ticaret yapmamalısınız.**
-
-Alım satım, Bitcoin'in fiyat dalgalanmalarından kâr elde etmeyi amaçlayan kısa vadeli spekülasyonları (bazen kaldıraçla) içerir. Kulağa cazip gelse de başarılı bir alım satım için ileri düzeyde teknik bilgi (grafik analizi ve risk yönetimi gibi), duygusal disiplin ve piyasaya sürekli dikkat etmek gerekir. Zihinsel olarak yorucu ve zaman alıcıdır ve Hard gerçeği şudur ki **yeni başlayanların çoğu para kaybeder** çünkü bunun gerçekten ne kadar zorlu olduğunu hafife alırlar.
-
-Warren Buffett'ın meşhur dediği gibi:
-
-"**Eğer bir hisse senedini on yıl boyunca elinizde tutmak istemiyorsanız, on dakika bile tutmayı düşünmeyin**."
-
-Bitcoin hızlı zengin olma planı değildir.
-
+Al-Sat yapmamalısınız. Trading (al-sat), genellikle kısa vadeli dönemlerde gerçekleşir ve bazen finansal kaldıraç kullanılır. Trader’lar, genellikle dalgalı olan fiyat hareketlerinden hızlı kazançlar elde etmeye çalışırlar. Bunun için güçlü bir teknik bilgi birikimi (grafik analizi, risk yönetimi vb.) ve stresle başa çıkma yeteneği gerekir; çoğu yeni başlayan kişi, deneyim eksikliği veya sağlam bir yöntemleri olmadığı için başarısız olur. Piyasayı sürekli takip etmek oldukça karmaşık olabilir ve tam zamanlı bir bağlılık gerektirir. Warren Buffet’in dediği gibi: “Bir hisseyi 10 yıl boyunca elinizde tutmaya hazır değilseniz, onu 10 dakika bile tutmayı düşünmeyin.”
 
 
 - Yatırım:**
 
 
-Yatırımcılar, değerinin zaman içinde (aylar, yıllar, hatta on yıllar) artacağı inancıyla Bitcoin satın alarak orta ila uzun vadeli bir bakış açısına sahip olurlar. Elbette Bitcoin'ün fiyatı önemli ölçüde dalgalanabileceği için hala risk vardır. Ancak bu yaklaşım genellikle daha sakin ve çoğu insan için, özellikle de her gün grafiklere bağlı kalarak saatler geçirmek istemeyenler için çok daha pratiktir.
+Yatırımcı, orta veya uzun vadeli bir zaman perspektifi benimser ve kaldıraç kullanmaz. Bitcoin satın alarak, değerinin aylar hatta yıllar içinde artacağına yatırım yapar. Fiyat dalgalanabileceği için risk hâlâ mevcuttur, ancak bu yaklaşım genellikle daha sakin olup, piyasaları her gün saatlerce izlemek istemeyen geniş kitleler için daha uygundur.
 
 
 
 - Holding (HODL):**
 
 
-"HODL", "hold" için bir yazım hatası olarak başladı ve kısa sürede Bitcoin kültürünün bir parçası haline geldi. Bugün ise bir onur nişanı.
-
-Hodler'lar bu işi çok uzun vadeli yapıyorlar; bazen on yıl veya daha fazla. Bitcoin'lerini güvenli bir şekilde saklıyor ve Bitcoin'in uzun vadeli potansiyeline duydukları güçlü inançla sadece bekliyorlar. Günlük fiyat dalgalanmalarından veya ayı piyasalarından etkilenmiyorlar. Zihniyetleri basit: biriktir, güvende tut ve bekle.
+"HODL", İngilizce "hold" (tutmak) kelimesinin esprili bir biçimde bozulmuş hâlidir ve Bitcoin topluluğunda simgesel bir terim hâline gelmiştir. "Hodler"lar, Bitcoin’lerini çok uzun vadeli olarak ellerinde tutarlar—bazen on yıl ya da daha fazla süreyle—çünkü Bitcoin’in benimsenme oranı arttıkça değer kazanacağına inanırlar. Bu strateji, Bitcoin’in potansiyeline güçlü bir inanç ve piyasanın geçici dalgalanmalarına karşı görece bir kayıtsızlık gerektirir.
 
 
-|          | Trading | Investment | Holding |
+|          | Trading (Al-Sat) | Yatırım | Holding (Tutma) |
 | ---------------------- | ----------- | -------------- | --------------- |
-| Leverage | Yes  | No | No |
-| Timeframe | Short-term | Medium-term | Very long-term |
-| Asset Type | Contracts | Actual BTC | Actual BTC |
-| Risk Level | Very high | High | High |
-| Difficulty | Very Hard | Hard | Hard |
-| learning curve | Long learning curve | Long learning curve | Long learning curve |
-| Potential Loss | UnLimited | Limited | Limited |
-| Best For | A few experienced users | Most People | Long-term Believers |
+| Kaldıraç | Evet  | Hayır | Hayır |
+| Zaman perspektifi | kısa vadeli | orta vadeli | çok uzun vadeli |
+| Varlık türü | kontrat | BTC | BTC |
+| Risk | çok yüksek | yüksek | yüksek |
+| Zorluk | çok zor | zor | zor |
+| Öğrenme eğrisi | uzun | uzun | uzun |
+| Olası kayıplar | sınırsız | sınırlı | sınırlı |
+| Daha uygun olduğu grup | bazıları | çoğunluk | bazıları |
 
 ### Öğrenmeye Devam Edin
 
