@@ -38,6 +38,8 @@ Bu kurs, ilgi alanlarınıza ve hedeflerinize en uygun yolu izleyerek Bitcoin'y�
 
 <chapterId>bfc96999-0ee1-5c41-8297-1b629f50cffc</chapterId>
 
+:::video id=58e578ef-bb3c-423d-8431-0c16db8e5f29:::
+
 
 BTC102'ye hoş geldiniz! BTC101'i tamamladıysanız, Bitcoin'ın neden bu kadar devrimci bir teknoloji olduğunun arkasındaki temel teorik kavramları keşfettiniz. Şimdi BTC102 ile bu bilgileri eyleme dökme zamanı. Bu kurs, kişisel Bitcoin planınızı adım adım oluşturmanıza yardımcı olmak için tasarlanmıştır.
 
@@ -1993,7 +1995,7 @@ Kimliğinizi açıklamadan Bitcoin satın almak, gizliliğe öncelik verenler i�
 - P2P Platformları**: Bisq, RoboSats ve Peach gibi platformlar, işlemleri güvence altına almak için emanet sistemleri kullanarak kimlik doğrulamasına gerek kalmadan özel kişiler arasında alışverişi kolaylaştırır. Bu platformlar, karşı tarafın işbirliği yapmaması halinde hırsızlık riskini hala taşımaktadır, ancak risk emanet hizmetleri ile en aza indirilmiştir.
 - Bitcoin Otomatik Vezne Makineleri (ATM'ler)**: Bazı ATM'ler (kiosklar) nakit para ile Bitcoin satın almanıza izin verir, ancak ücretler yüksek olma eğilimindedir ve bazıları daha büyük işlemler için kimlik doğrulaması gerektirir.
 - KYC içermeyen Exchange platformları**: Özellikle İsviçre'deki bazı platformlar, kimlik doğrulaması gerektirmeden küçük miktarlarda Bitcoin satın almanıza izin verir.
-- Mining**: Bireyler Bitcoin madenciliği yapabilir. Daha eski veya daha küçük makinelere erişilebilir ve KYC olmadan Bitcoin elde etmek için geleneksel olmayan bir yol sağlar. Bir Mining pool'e katılarak, temel ekipmanlarla bile düzenli ödemeler kazanabilirsiniz. Daha fazla bilgi için [Mining eğitimlerimize göz atın] (https://planb.network/tutorials/Mining).
+- Mining**: Bireyler Bitcoin madenciliği yapabilir. Daha eski veya daha küçük makinelere erişilebilir ve KYC olmadan Bitcoin elde etmek için geleneksel olmayan bir yol sağlar. Bir Mining pool'e katılarak, temel ekipmanlarla bile düzenli ödemeler kazanabilirsiniz. Daha fazla bilgi için [Mining eğitimlerimize göz atın] (https://planb.network/tutorials/mining).
 - Ödemeler / Maaş bitcoin olarak**: Eğer bir işletme işletiyorsanız, ödeme olarak Bitcoin kabul edebilirsiniz. Çalışıyorsanız, yargı alanınıza bağlı olarak, Bitcoin ile ödeme yapılmasını isteyebilirsiniz. Bu yöntemler KYC olmadan Bitcoin elde etmenizi sağlar.
 
 
