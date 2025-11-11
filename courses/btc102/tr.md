@@ -668,7 +668,7 @@ Yatırımcı, orta veya uzun vadeli bir zaman perspektifi benimser ve kaldıraç
 ### Öğrenmeye Devam Edin
 
 
-Para, yatırım ve finansal sistemin gerçekte nasıl işlediği hakkında kendinizi eğitmeye başlamak için asla çok erken (veya çok geç) değildir. Bir uzman olmanıza veya her teknik detaya dalmanıza gerek yoktur; bilinçli kararlar vermek ve çıkarlarınıza hizmet etmeyen finansal ürünler (genellikle bankalar veya danışmanlar tarafından tanıtılır) tarafından yanlış yönlendirilmekten kaçınmak için sağlam, büyük resimli bir anlayışa sahip olmak yeterlidir.
+Para, yatırım ve finansal sistemin nasıl işlediği hakkında kendinizi eğitmeye başlamak için asla çok erken (veya çok geç) değildir. Bir uzman olmanıza veya her teknik detaya dalmanıza gerek yoktur; bilinçli kararlar vermek ve çıkarlarınıza hizmet etmeyen finansal ürünler (genellikle bankalar veya danışmanlar tarafından tanıtılır) tarafından yanlış yönlendirilmekten kaçınmak için sağlam, büyük resimli bir anlayışa sahip olmak yeterlidir.
 
 
 Robert T. Kiyosaki'nin *Zengin Baba, Yoksul Baba* kitabı harika bir başlangıç noktasıdır. Varlıklar ve yükümlülükler arasındaki farkı anlamak ve finansal eğitimin neden uzun vadeli bağımsızlık için anahtar olduğu gibi yaklaşılabilir tarzı ve temel dersleri ile yaygın olarak bilinir.
@@ -688,16 +688,14 @@ Toparlamak gerekirse, her Bitcoin kullanıcısının (özellikle de yeni başlay
 
 
 - Kural n°1**: Asla kaybetmeyi göze alabileceğinizden daha fazla yatırım yapmayın. Bitcoin değişken bir varlıktır. Kazanç peşinde koşarak finansal istikrarınızı riske atmayın. Temel ihtiyaçlarınız ve huzurunuz her zaman önce gelmelidir.
-- Kural n°2**: Yutturmacayı körü körüne takip etmeyin veya mucize tavsiyelere güvenmeyin. Trendleri ve gösterişli vaatleri görmezden gelin. Bunun yerine iyi bilgilendirilmiş, rasyonel kararlar almaya odaklanın. Şüpheye düştüğünüzde, üzerinde uyuyun; güvendiğiniz kişilerle konuşun. Yavaş ve düşünceli hareket etmek, maliyetli hatalara acele etmekten daha iyidir.
-- Kural n°3**: Bir plan oluşturun ve uzun vadeli bir vizyona bağlı kalın.
-
-Tutarlılık, sabır ve disiplin sizi kısa vadeli heyecandan daha ileriye götürecektir. Ay atışlarını hedeflemeyin; sürdürülebilir büyümeyi hedefleyin. Ölümcül hatalardan kaçının ve küçük kazançların zamanla birleşmesine izin verin.
+- Kural n°2**: Yutturmacayı körü körüne takip etmeyin veya mucize tavsiyelere güvenmeyin. Trendleri ve gösterişli vaatleri görmezden gelin. Bunun yerine iyi bilgilendirilmiş, rasyonel kararlar almaya odaklanın. Şüpheye düştüğünüzde, üzerine uyuyun; güvendiğiniz kişilerle konuşun. Yavaş ve düşünceli hareket etmek, maliyetli hatalara acele etmekten daha iyidir.
+- Kural n°3**: Bir plan oluşturun ve uzun vadeli bir vizyona bağlı kalın. Tutarlılık, sabır ve disiplin sizi kısa vadeli heyecandan daha ileriye götürecektir. Büyük siçramalar peşinde koşmayın; sürdürülebilir büyümeyi hedefleyin. Ölümcül hatalardan kaçının ve küçük kazançların zamanla birleşmesine izin verin.
 
 
-Bu ilkeleri takip ederek, Bitcoin yatırımına daha net ve gönül rahatlığıyla yaklaşabileceksiniz. Evet, Bitcoin istikrarsızdır ve ilk başta göz korkutucu olabilir; ancak dikkatli, sabırlı ve ayakları yere basan bir zihniyetle yaklaşıldığında, inkar edilemez bir potansiyele sahiptir. Bilginizi geliştirmek için zaman ayırın, gerektiğinde stratejinizi yeniden gözden geçirin ve her şeyden önce şunu unutmayın: yavaş ve istikrarlı ilerleme, korku veya sabırsızlıktan acele etmekten her zaman daha iyi hizmet edecektir.
+Bu ilkeleri takip ederek, Bitcoin yatırımlarına daha net bir bakış açısı ve iç huzura yaklaşabileceksiniz. Evet, Bitcoin dalgalanır ve ilk başta göz korkutucu olabilir; ancak dikkatli, sabırlı ve ayakları yere basan bir zihniyetle yaklaşıldığında, inkar edilemez bir potansiyele sahiptir. Bilginizi geliştirmek için zaman ayırın, gerektiğinde stratejinizi yeniden gözden geçirin ve her şeyden önce şunu unutmayın: yavaş ve istikrarlı ilerleme, korku veya sabırsızlıktan acele etmekten her zaman daha iyi hizmet edecektir.
 
 
-# Neye bulaştığınızı anlamak
+# Neye başladığınızı anlamak
 
 
 <partId>a42355a3-9dd8-57ed-b590-32a333fe09ea</partId>
@@ -712,10 +710,10 @@ Bu ilkeleri takip ederek, Bitcoin yatırımına daha net ve gönül rahatlığı
 :::video id=3c2d1e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f:::
 
 
-Bu kursta öncelikli hedef, ilk bitcoinlerinizi edinme ve güvence altına alma konusunda size rehberlik etmektir. Ancak pratik adımlara geçmeden önce (BTC nasıl satın alınır, hangi cüzdanlar kullanılır vb.) bir adım geri atıp Bitcoin'ün gerçekte ne olduğunu anlamak önemlidir. Bitcoin'ün derin doğasını kavramak, milyonlarca insanın neden bu teknolojiye yöneldiğini ve birikimlerinizi böylesine yeni ve değişken bir varlığa yatırmadan önce temelleri anlamanın neden çok önemli olduğunu görmenize yardımcı olacaktır.
+Bu kursta öncelikli hedef, ilk bitcoinlerinizi edinme ve güvence altına alma konusunda size rehberlik etmektir. Ancak pratik adımlara geçmeden önce (BTC nasıl satın alınır, hangi cüzdanlar kullanılır vs.) bir adım geri atıp Bitcoin'ün gerçekte ne olduğunu anlamak önemlidir. Bitcoin'ün derin doğasını kavramak, milyonlarca insanın neden bu teknolojiye yöneldiğini ve birikimlerinizi böylesine yeni ve değişken bir varlığa yatırmadan önce temelleri anlamanın neden çok önemli olduğunu görmenize yardımcı olacaktır.
 
 
-Yıllar içinde Bitcoin küresel bir para ağı olarak tanınırlık kazanmıştır. "Dijital altın", "güven protokolü" ve hatta "paralel finansal sistem" olarak adlandırıldı Peki bu terimler gerçekten ne anlama geliyor? Bunu yanıtlamak için Bitcoin'ün özüne daha yakından bakacağız: köken hikayesi, teknik temelleri, parasal özellikleri ve potansiyel etkisi; yalnızca bireyler üzerinde değil, bir bütün olarak küresel finans sistemi üzerinde.
+Yıllar içinde Bitcoin küresel bir para ağı olarak tanınırlık kazanmıştır. "Dijital altın", "güven protokolü" ve hatta "paralel finansal sistem" olarak adlandırıldı. Peki bu terimler gerçekte ne anlama geliyor? Bunu yanıtlamak için Bitcoin'ün özüne daha yakından bakacağız: köken hikayesi, teknik temelleri, parasal özellikleri ve potansiyel etkisi; yalnızca bireyler üzerinde değil, bir bütün olarak küresel finans sistemi üzerinde.
 
 
 ### Kökenleri: Uzun Süreli Bir Arayıştan Doğan Bir Proje
@@ -724,20 +722,17 @@ Yıllar içinde Bitcoin küresel bir para ağı olarak tanınırlık kazanmışt
 #### Cypherpunks ve bankacılık kontrolünün ötesinde bir sistemin icadı
 
 
-Bitcoin bir gecede doğmadı. Kriptografi, bilgisayar bilimi ve para teorisi alanlarında onlarca yıl süren araştırma ve deneylerin sonucudur. 2009'da piyasaya sürülmeden önce, birkaç proje (eCash, b-money, Bit Gold ve RPOW gibi) dijital para birimleri yaratmaya çalıştı. Hepsi aynı temel sorunla karşı karşıyaydı: merkezi olmayan bir sistemde merkezi bir otoriteye güvenmeden çifte harcamanın nasıl önleneceği.
+Bitcoin bir gecede doğmadı. Kriptografi, bilgisayar bilimi ve para teorisi alanlarında onlarca yıl süren araştırma ve deneylerin sonucu oldu. 2009'da piyasaya sürülmeden önce, birkaç proje (eCash, b-money, Bit Gold ve RPOW gibi) dijital para birimleri yaratmaya çalıştı. Hepsi aynı temel sorunla karşı karşıyaydı: merkezi olmayan bir sistemde merkezi bir otoriteye gerek olmadan, çifte harcamanın nasıl önleneceği.
 
+Bu sorun, Satoshi Nakamoto adını kullanan birinin Bitcoin teknik incelemesini yayınladığı 2008 yılının sonlarına kadar çözümsüz kaldı. Birkaç ay sonra, Bitcoin'ün açık kaynaklı yazılımının ilk sürümü yayınlanarak bankalardan veya hükümetlerden bağımsız olarak çalışabilecek bir sistem başlatıldı.
 
-Bu sorun, Satoshi Nakamoto adını kullanan birinin Bitcoin teknik incelemesini yayınladığı 2008 yılının sonlarına kadar çözümsüz kaldı. Birkaç ay sonra, Bitcoin'nın açık kaynaklı yazılımının ilk sürümü yayınlanarak bankalardan veya hükümetlerden bağımsız olarak çalışabilecek bir sistem başlatıldı.
-
-
-Proje, çevrimiçi bireysel özgürlükleri korumak için kriptografiyi kullanmaya inanan geliştiriciler ve düşünürlerden oluşan bir topluluk olan Cypherpunk ethosundan büyük ölçüde etkilenmiştir. Onlar için gizlilik ve ademi merkeziyetçilik teknik tercihler değil, ideolojik gerekliliklerdi. Bitcoin bu ideallerin en başarılı uygulaması olarak ortaya çıktı: herkesin kullanabileceği, kimsenin kontrol edemeyeceği ve herkesin doğrulayabileceği eşler arası bir para ağı.
+Proje, çevrimiçi bireysel özgürlükleri korumak için kriptografiyi kullanmaya inanan geliştiriciler ve düşünürlerden oluşan bir topluluk olan Cypherpunk ethosundan büyük ölçüde etkilenmiştir. Onlar için gizlilik ve merkeziyetsizlik teknik tercihler değil, ideolojik gerekliliklerdi. Bitcoin bu ideallerin en başarılı uygulaması olarak ortaya çıktı: herkesin kullanabileceği, kimsenin kontrol edemeyeceği ve herkesin doğrulayabileceği eşler arası bir para ağı.
 
 
 ![BTC102-Bitcoin](assets/tr/035.webp)
 
 
-Cypherpunks, çevrimiçi kişisel özgürlükleri savunmak için kriptografi kullanımını savunan bireylerin oluşturduğu gayri resmi, uluslararası bir topluluktur. Bireyin mahremiyet hakkına güçlü bir şekilde inanmaktadırlar; özellikle de hükümet gözetimi ve kurumsal veri sömürüsü tarafından giderek daha fazla şekillendirilen bir dünyada.
-
+Cypherpunks, çevrimiçi kişisel özgürlükleri savunmak için kriptografi kullanımını savunan bireylerin oluşturduğu gayri resmi, uluslararası bir topluluktu. Bireyin mahremiyet hakkına güçlü bir şekilde inanmaktadırlar; özellikle de hükümet gözetimi ve kurumsal veri sömürüsü tarafından giderek daha fazla şekillendirilen bir dünyada.
 
 Cypherpunk hareketinin kökleri, kriptograflar, programcılar ve özgürlükçülerden oluşan grupların Silikon Vadisi'ndeki buluşmalar sırasında kriptografinin siyasi etkilerini araştırmaya başladığı 1990'ların başına kadar uzanmaktadır. Topluluktaki en önemli seslerden biri, 1988 yılında Kripto Anarşist Manifestosu'nu yazan Tim May'di; şifrelemenin bireyleri hükümetlerin ve merkezi kontrolün erişiminin ötesinde faaliyet göstermeleri için güçlendireceği bir dünya vizyonunu özetleyen temel bir metin.
 
@@ -767,7 +762,7 @@ Bu sadece bir tarih ya da teknik bir not değildi; sessiz ama güçlü bir prote
 ![BTC102-Bitcoin](assets/tr/034.webp)
 
 
-Birçok kişi bunu Bitcoin'un amacı olarak yorumluyor: aracılara ihtiyaç duymadan, merkez bankaları veya hükümetler tarafından alınan genellikle belirsiz kararlar yerine net kurallarla kontrol edilen bir değer transferi yolu sunmak.
+Birçok kişi bunu Bitcoin'ün amacı olarak yorumluyor: aracılara ihtiyaç duymadan, merkez bankaları veya hükümetler tarafından alınan genellikle belirsiz kararlar yerine net kurallarla kontrol edilen bir değer transferi yolu sunmak.
 
 
 ![BTC102-Bitcoin](assets/tr/033.webp)
@@ -784,22 +779,22 @@ https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 #### Eşler arası ve merkezi bir organ yok
 
 
-Bitcoin "eşler arası elektronik nakit sistemi" olarak tanımlanmaktadır Bu, herkesin uygun yazılımı (bir Bitcoin düğümü) kullanarak ağa bağlanabileceği ve merkezi bir sunucuya güvenmeden doğrudan diğer kullanıcılarla etkileşime girebileceği anlamına gelir. Bu ademi merkeziyetçiliğin amacı, herhangi bir tek birimin (banka, hükümet veya büyük şirket gibi) sistemi kontrol etmesini, sansürlemesini veya durdurmasını önlemektir. Bitcoin 7/24, küresel olarak çalışır ve herhangi bir koşul olmaksızın herkes tarafından erişilebilir.
+Bitcoin "eşler arası elektronik nakit sistemi" olarak tanımlanmaktadır Bu, herkesin uygun yazılımı (bir Bitcoin düğümü) kullanarak ağa bağlanabileceği ve merkezi bir sunucuya güvenmeden doğrudan diğer kullanıcılarla etkileşime girebileceği anlamına gelir. Bu  merkeziyetsizliğin amacı, herhangi bir tek birimin (banka, hükümet veya büyük şirket gibi) sistemi kontrol etmesini, sansürlemesini veya durdurmasını önlemektir. Bitcoin 7/24, küresel olarak çalışır ve herhangi bir koşul olmaksızın herkes tarafından erişilebilir.
 
 
 ![BTC102-Bitcoin](assets/tr/036.webp)
 
 
-Basit bir ifadeyle, Bitcoin ağındaki her katılımcı ("düğüm" olarak adlandırılır) Blockchain olarak bilinen Ledger işleminin tam bir kopyasına sahiptir. Yeni bir işlem gerçekleştiğinde, bu işlem ağa yayınlanır. Madenciler daha sonra bu işlemleri bloklar halinde gruplandırarak onaylar ve bunlar zincirin sonuna eklenir (dolayısıyla "Blockchain" adı verilir).
+Basit bir ifadeyle, Bitcoin ağındaki her katılımcı ("düğüm" olarak adlandırılır) Blockchain olarak bilinen işlem defterinin tam bir kopyasına sahiptir. Yeni bir işlem gerçekleştiğinde, bu işlem ağa yayınlanır. Madenciler daha sonra bu işlemleri bloklar halinde gruplandırarak onaylar ve bunlar zincirin sonuna eklenir (dolayısıyla "Blockchain" adı verilir).
 
 
 ![BTC102-Bitcoin](assets/tr/029.webp)
 
 
-#### Blockchain: bir muhasebe Ledger
+#### Blockchain: bir muhasebe defteri (ledger)
 
 
-Blockchain'i, her satırın bir işlemi temsil ettiği dev bir muhasebe Ledger'ı olarak düşünün. Geleneksel bir bankacılık sisteminde, veritabanı bir bankanın sunucularında saklanır ve banka istediği zaman değişiklik yapabilir. Öte yandan, Bitcoin'da **tüm değişiklikler tüm ağ üzerinde doğrulanır**: Blockchain'e yeni bir işlem bloğu eklendiğinde, daha sonra değiştirmek neredeyse imkansızdır. Bu merkezi olmayan doğrulama, Bitcoin'un Ledger'ını güvenli ve şeffaf hale getirir.
+Blockchain'i, her satırın bir işlemi temsil ettiği dev bir muhasebe defteri'ı olarak düşünün. Geleneksel bir bankacılık sisteminde, veritabanı bir bankanın sunucularında saklanır ve banka istediği zaman değişiklik yapabilir. Öte yandan, Bitcoin'da **tüm değişiklikler tüm ağ üzerinde doğrulanır**: Blockchain'e yeni bir işlem bloğu eklendiğinde, daha sonra değiştirmek neredeyse imkansızdır. Bu merkezi olmayan doğrulama, Bitcoin'un defterini güvenli ve şeffaf hale getirir.
 
 
 ![BTC102-Bitcoin](assets/tr/027.webp)
